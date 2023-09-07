@@ -5,7 +5,7 @@ I am a TDI-certified Data Scientist with a PhD in Geosciences.  I have expertise
 - Exploratory Data Analysis with Python
 - Querying and ad hoc data analysis with SQL
 - Data Visualization
-- Descriptive and predicitive analytics with the Python / Pandas / Schkit-Learn stack
+- Descriptive and predicitive modeling with the Python / Pandas / Scikit-Learn stack
 - Distributed data analytics with PySpark
 - Deep learning with Keras / Tensorflow
 
