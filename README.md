@@ -7,7 +7,7 @@ I am a TDI-certified Data Scientist with a PhD in Geosciences.  I have expertise
 - Data Visualization
 - Descriptive and predicitive analytics with the Python / Pandas / Schkit-Learn stack
 - Distributed data analytics with PySpark
-- Deep learning wit Keras / Tensorflow
+- Deep learning with Keras / Tensorflow
 
 <!--
 **JasonDahl/JasonDahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
