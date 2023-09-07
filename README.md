@@ -1,4 +1,13 @@
-### Hi there 👋
+## About Me
+![JasonMDahlPhD](https://github.com/JasonDahl/JasonDahl/assets/103218779/f60ddc51-dbb7-4cbf-9909-6724a9294042)
+I am a TDI-certified Data Scientist with a PhD in Geosciences.  I have expertise in data analysis and visualization, data science and machine learning, and geospatial and geophysical research.  I love learning and applying new techniques and technologies.  My skills include:
+
+- Exploratory Data Analysis with Python
+- Querying and ad hoc data analysis with SQL
+- Data Visualization
+- Descriptive and predicitive analytics with the Python / Pandas / Schkit-Learn stack
+- Distributed data analytics with PySpark
+- Deep learning wit Keras / Tensorflow
 
 <!--
 **JasonDahl/JasonDahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
