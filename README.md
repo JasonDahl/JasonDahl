@@ -9,6 +9,10 @@ I am a TDI-certified Data Scientist with a PhD in Geosciences.  I have expertise
 - Distributed data analytics with PySpark
 - Deep learning with Keras / Tensorflow
 
+**Connect with me on [LinkedIn](https://www.linkedin.com/in/jason-m-dahl/ "Visit my LinkedIn profile").**
+
+**See examples of my work in my [portfolio](https://github.com/JasonDahl/project-showcase "View portfolio TOC").**
+
 <!--
 **JasonDahl/JasonDahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
