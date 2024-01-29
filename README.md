@@ -8,6 +8,8 @@ I am a TDI-certified Data Scientist with a PhD in Geosciences.  I have expertise
 - Descriptive and predicitive modeling with the Python / Pandas / Scikit-Learn stack
 - Distributed data analytics with PySpark
 - Deep learning with Keras / Tensorflow
+- Containerization with Docker, container control with Docker-Compose
+- GCP resource provisioning with Terraform
 
 **Connect with me on [LinkedIn](https://www.linkedin.com/in/jason-m-dahl/ "Visit my LinkedIn profile").**
 
